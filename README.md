@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+I'm+Dave;Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Python+%7C+Java+%7C+AI+Builder" />
+
 Hi 👋 I'm Dave
 
 ## 💻 Tech Stack
